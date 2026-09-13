@@ -8,7 +8,7 @@ const Navbar = () => {
         <Image src="/next.svg" alt="" width={89} height={18} />
       </Link>
 
-      <nav className="flex item-center gap-4 text-sm my-auto font-extrabold text-zinc-600">
+      <nav className="flex item-center gap-4 text-sm my-auto font-extrabold text-zinc-600 font-serif">
         <Link href="/" className="hover:text-zinc-950">
           Home
         </Link>
